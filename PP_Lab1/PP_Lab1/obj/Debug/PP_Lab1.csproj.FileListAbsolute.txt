@@ -1,0 +1,8 @@
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\bin\Debug\PP_Lab1.exe.config
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\bin\Debug\PP_Lab1.exe
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\bin\Debug\PP_Lab1.pdb
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\obj\Debug\PP_Lab1.csproj.AssemblyReference.cache
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\obj\Debug\PP_Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\obj\Debug\PP_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\obj\Debug\PP_Lab1.exe
+C:\Users\ilyat\source\repos\PP_Lab1\PP_Lab1\obj\Debug\PP_Lab1.pdb
